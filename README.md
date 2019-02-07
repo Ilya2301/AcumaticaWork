@@ -1,0 +1,2 @@
+# AcumaticaWork
+Solutions around Acumatica
